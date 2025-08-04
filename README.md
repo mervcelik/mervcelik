@@ -1,6 +1,5 @@
 
 # 💼 Merve Çelik - Full Stack Developer | C#, .NET Core 
-# 💫 About Me:
 🔭 Şu anda üzerinde çalışıyorum:  <br>**SignatureProject** – Belgeleri elektronik imzalama işlemleri için .NET Core tabanlı bir proje.<br><br>👯 Birlikte çalışmak istiyorum:  <br>Blazor, WPF ve modern .NET Core projelerinde takım çalışmasına açık geliştiricilerle iş birliği yapmak istiyorum.<br><br>🤝 Yardım almak istediğim konular:  <br>Gerçek zamanlı uygulamalar (özellikle SignalR), mikroservis mimarisi ve yazılım test süreçleri hakkında daha fazla deneyim kazanmak istiyorum.<br><br>🌱 Şu anda öğreniyorum:  <br>- Mikroservis Mimarisi<br>- Docker, Dapper, Redis<br>- MongoDB, PostgreSQL, MSSQL<br><br><br>💬 Bana şunları sorabilirsiniz:  <br>C#, .NET Core, CQRS, Clean Architecture, Entity Framework, API tasarımı<br>
 
 
