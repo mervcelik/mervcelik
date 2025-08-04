@@ -4,6 +4,10 @@
 🌱 Şu anda öğreniyorum:  <br>- Mikroservis Mimarisi<br>- Docker, Dapper, Redis<br>- MongoDB, PostgreSQL, MSSQL<br><br>
 💬 Bana şunları sorabilirsiniz:  <br>C#, .NET Core, CQRS, Clean Architecture, Entity Framework, API tasarımı<br>
 
+<table>
+  <tr>
+    <td>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mervcelik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
     </td>
