@@ -1,5 +1,5 @@
 
-# 💼 Merve Çelik - Backend Developer | C#, .NET Core 
+# 💼 Merve Çelik - Full Stack Developer | C#, .NET Core 
 Merhaba! Ben **Merve Çelik**, yazılım geliştirme konusunda özellikle **C# .NET Core**, **Clean Architecture**, ve **CQRS** konularında uzmanlaşmış bir geliştiriciyim. Yazılım geliştirme süreçlerinde hem kod kalitesine hem de sürdürülebilirliğe büyük önem veriyorum. 
 
 ---
