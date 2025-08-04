@@ -3,16 +3,6 @@
 Merhaba! Ben **Merve Çelik**, yazılım geliştirme konusunda özellikle **C# .NET Core**, **Clean Architecture**, ve **CQRS** konularında uzmanlaşmış bir geliştiriciyim. Yazılım geliştirme süreçlerinde hem kod kalitesine hem de sürdürülebilirliğe büyük önem veriyorum.
 ---
 
-## 🚀 Aktif Projelerim
-| Proje | Açıklama |
-|-------|----------|
-| 🔹 [RentACar](https://github.com/mervcelik/RentACar) | Clean Architecture ve CQRS mimarisi ile geliştirildi. DDD, SOLID, AutoMapper, MediatR ve API katmanları ile kapsamlı bir örnek. |
-| 🔹 [nArchitecture.Core](https://github.com/mervcelik/nArchitecture.Core) | Kendi altyapım olarak kullandığım, Entity Framework + CQRS + Repository Pattern içeren yeniden kullanılabilir bir temel. |
-| 🔹 [SignatureProject](https://github.com/mervcelik/SignatureProject) | Elektronik imza ile belge imzalama modülü. .NET üzerinde güvenli PDF imzalama işlevi sunar. |
-| 🔹 [DayBook](https://github.com/mervcelik/DayBook) | Kişisel notlar ve günlük kayıtları için basit ama kullanışlı bir C# uygulaması. |
-
----
-
 ## 🛠️ Kullandığım Teknolojiler
 - **Backend:** C#, ASP.NET Core, Web API
 - **Veri Erişim:** Entity Framework Core, LINQ, SQL Server
