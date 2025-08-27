@@ -1,6 +1,6 @@
 
 # 💼 Merve Çelik - Full Stack Developer | C#, .NET Core 
-🔭 Şu anda üzerinde çalışıyorum:  <br>**SignatureProject** – Belgeleri elektronik imzalama işlemleri için .NET Core tabanlı bir proje.<br>
+🔭 Şu anda üzerinde çalışıyorum:  <br>**InsureYouAI** – Udemy'de yer alan Murat Yücedağ'a ait ASP.NET Core ile Yapay Zeka Entegrasyonları: Sigorta Projesi kursunu izleyerek geliştirmeye devam ediyorum.<br>
 **MultiShop** -Udemy'de yer alan Murat Yücedağ'a ait ASP.NET Core Mikroservis E-Ticaret kursunu izleyerek geliştirmeye devam ediyorum. <br><br>
 🌱 Şu anda öğreniyorum:  <br>- Mikroservis Mimarisi<br>- Docker, Dapper, Redis<br>- MongoDB, PostgreSQL, MSSQL <br>- JavaScript<br><br>
 💬 Bana şunları sorabilirsiniz:  <br>C#, .NET Core, CQRS, Clean Architecture, Entity Framework, API tasarımı<br>
